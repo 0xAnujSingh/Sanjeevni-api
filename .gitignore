@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS Generated Files
+.DS_Store
+
+# IDE Specific
+.project
+
+# Optional: Ignore package-lock.json
+package-lock.json
